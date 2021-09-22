@@ -1,6 +1,7 @@
 body{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
+    margin: auto;
 }
 h1{
     color: #F59E0B;
@@ -11,7 +12,7 @@ h1{
     margin: auto;  
 }
 input{
-    font-size: 30px;
+    font-size: 20px;
     display: block;
     margin: 1rem auto 1rem auto;
     padding: 0.5rem;

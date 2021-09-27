@@ -21,7 +21,7 @@ input{
     outline: #F59E0B;
     border-radius: 1rem;
 }
-#submit-btn{
+#submit{
     font-size: 25px;
     background-color: #F59E0B;
     color: white;
@@ -30,7 +30,7 @@ input{
     border: 2px solid  #F59E0B;
     padding: 1rem;
 }
-#output-box{
+#show-output{
     color: #F59E0B;
     font-size: 30px;
 }
